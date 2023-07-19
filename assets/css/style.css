@@ -1472,6 +1472,20 @@ button {
     color: #fff;
     background: #db4437;
 }
+.social-icons li a.resumepdf {
+    color: #333;
+}
+.social-icons li a.resumepdf:hover {
+    color: #fff;
+    background: #333;
+}
+.social-icons li a.github {
+    color: #6e5494;
+}
+.social-icons li a.github:hover {
+    color: #fff;
+    background: #6e5494;
+}
 #ball {
     position: fixed;
     transform: translate(-50%, -50%);
